@@ -1,0 +1,4 @@
+http://www.devils-heaven.com/facebook-php-sdk-4-0-tutorial/
+
+https://developers.facebook.com/docs/graph-api/securing-requests
+https://developers.facebook.com/apps/384015591725887/settings/advanced/
